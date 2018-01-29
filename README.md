@@ -1,3 +1,4 @@
 #TafshanLB
 
-The project uses the **LoopBack** framework
+* The project uses the **LoopBack** framework.
+* Run **np install** to download dependencies.
