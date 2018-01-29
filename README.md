@@ -1,3 +1,3 @@
 #TafshanLB
 
-The project is uses the **LoopBack** framework
+The project uses the **LoopBack** framework
