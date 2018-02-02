@@ -1,0 +1,41 @@
+{
+  "name": "post",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "string",
+      "required": true
+    },
+    "date": {
+      "type": "date"
+    },
+    "location": {
+      "type": "GeoPoint"
+    },
+    "tags": {
+      "type": [
+        "string"
+      ]
+    },
+    "like": {
+      "type": "number",
+      "default": 0
+    },
+    "dislike": {
+      "type": "number",
+      "default": 0
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
