@@ -8,3 +8,4 @@
 
 #React
 * Add ** react-router and react-router-dom **
+* Use ** axios ** for http request
