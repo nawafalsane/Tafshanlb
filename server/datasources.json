@@ -19,7 +19,7 @@
     "url": "",
     "database": "demo",
     "password": "",
-    "name": "mongodb",
+    "name": "mongoDB",
     "user": "",
     "connector": "mongodb"
   }

@@ -35,7 +35,18 @@
     }
   },
   "validations": [],
-  "relations": {},
+  "relations": {
+    "reviews": {
+      "type": "hasMany",
+      "model": "review",
+      "foreignKey": ""
+    },
+    "users": {
+      "type": "hasMany",
+      "model": "user",
+      "foreignKey": ""
+    }
+  },
   "acls": [],
   "methods": {}
 }
