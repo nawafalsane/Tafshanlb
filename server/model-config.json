@@ -40,11 +40,11 @@
     "public": true
   },
   "review": {
-    "dataSource": "mongodb",
+    "dataSource": "mongoDB",
     "public": true
   },
   "user": {
-    "dataSource": "mongodb",
+    "dataSource": "mongoDB",
     "public": true
   }
 }
