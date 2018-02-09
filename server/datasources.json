@@ -12,5 +12,15 @@
     "name": "postgresDB",
     "user": "",
     "connector": "postgresql"
+  },
+  "mongodb": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "demo",
+    "password": "",
+    "name": "mongodb",
+    "user": "",
+    "connector": "mongodb"
   }
 }
