@@ -1,4 +1,4 @@
-#TafshanLB
+# TafshanLB
 
 
 # General information
@@ -13,7 +13,7 @@
 # Client information
 * Development on client will be on client_src folder
 
-#Todo
+# Todo
 
 * Work on API and API relation.
 * Work on ACL for users.
@@ -23,4 +23,5 @@
 * Add ** react-router and react-router-dom **
 * Use ** axios ** for http request
 
-# Docker container to streamline process of dev
+# Docker
+* Docker container to streamline process of dev
