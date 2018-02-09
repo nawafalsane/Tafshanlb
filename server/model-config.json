@@ -38,5 +38,9 @@
   "post": {
     "dataSource": "postgresDB",
     "public": true
+  },
+  "review": {
+    "dataSource": "mongodb",
+    "public": true
   }
 }
